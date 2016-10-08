@@ -7,7 +7,7 @@
 		url('Lato-Regular.woff2') format('woff2'),
 		url('Lato-Regular.woff') format('woff'),
 		url('Lato-Regular.ttf') format('truetype'),
-		url('Lato-Regular.svg#Lato-Regular') format('svg');
+		url('Lato-Regular.svg#Lato-Regular') format('svg') !important;
 	font-weight: normal;
 	font-style: normal;
 }
@@ -19,7 +19,7 @@
 		url('Lato-Light.woff2') format('woff2'),
 		url('Lato-Light.woff') format('woff'),
 		url('Lato-Light.ttf') format('truetype'),
-		url('Lato-Light.svg#Lato-Light') format('svg');
+		url('Lato-Light.svg#Lato-Light') format('svg') !important;
 	font-weight: 300;
 	font-style: normal;
 }
@@ -31,7 +31,7 @@
 		url('Lato-Black.woff2') format('woff2'),
 		url('Lato-Black.woff') format('woff'),
 		url('Lato-Black.ttf') format('truetype'),
-		url('Lato-Black.svg#Lato-Black') format('svg');
+		url('Lato-Black.svg#Lato-Black') format('svg') !important;
 	font-weight: 900;
 	font-style: normal;
 }
